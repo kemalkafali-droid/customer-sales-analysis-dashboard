@@ -1,4 +1,5 @@
 # Customer Sales Analysis Dashboard
+![Customer Sales Analysis Dashboard](dashboard.png)
 
 ### Google Sheets | Data Cleaning | Sales Analysis | Data Visualization
 
